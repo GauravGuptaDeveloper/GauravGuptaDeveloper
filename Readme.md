@@ -3,8 +3,14 @@
 ## I'm a Full Stack Developer with ample of Technologies under my toolkit!!
 
 - 🌱 I'm currently learning Rasa, and along with it everything 🤣.
-- 🥅 let patience, practise;
-- 🌱 const dev = ()=> ++patience + ++practise; dev();
+```javascript
+let patience, practise;
+const devlopement = () => {
+    result = ++patience + ++practise;
+    return result;
+}
+console.log(develpment());
+```
 - ⚡ Fun fact: I love to do Painting.
 
 ### Connect with me:
