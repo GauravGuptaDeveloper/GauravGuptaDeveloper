@@ -31,10 +31,12 @@
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://lh3.googleusercontent.com/proxy/F76UivPMA7WRjedEqJDaW6OMajyHc3nu8bRNCJPlw_2WBoN5DE0Xp6hOlmyw862jLi8uV_dJ4V330zLxGwudfIzf1cJjp-TvoRv301-4rRVxtzKaoiz_LF1ccwxzmgs1b3ki2ks5D8ep8T-st8NRCd8" />
+<img align="left" alt="MySQL" width="26px" src="https://icons-for-free.com/iconfiles/png/512/development+logo+mysql+icon-1320184807686758112.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://img.icons8.com/color/452/mongodb.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Rasa" width="26px" src="https://www.spaceo.ca/wp-content/uploads/2019/12/rasa-framework.png" />
+<img align="left" alt="Microsoft Bot" width="26px" src="https://www.cedextech.com/assets/build/images/azure-bot-service.png" />
 
 <br />
 <br />
