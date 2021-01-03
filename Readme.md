@@ -2,7 +2,7 @@
 
 ## I'm a Full Stack Developer with ample of Technologies under my toolkit!!
 
-- 🌱 I'm currently learning Rasa, and along with it everything 🤣.
+- 🌱 I'm currently learning Rasa, and along with it, I love to explore new Technologies.
 ```javascript
 let patience, practise;
 const devlopement = () => {
